@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eline Bisschop",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -14,7 +14,14 @@
     },
     "versionFirst": "4.4.0",
     "uniqCompNum": 21,
-    "versionPublish": "4.4.0"
+    "versionPublish": "4.4.0",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-115312957-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-115312957-1');\r\n</script>\r\n",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
