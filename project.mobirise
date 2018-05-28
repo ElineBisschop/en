@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Eline Bisschop",
-    "currentPage": "page2.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,7 +13,7 @@
       ]
     },
     "versionFirst": "4.4.0",
-    "uniqCompNum": 39,
+    "uniqCompNum": 42,
     "versionPublish": "4.6.6",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\nDisallow: /assets/images\n",
     "robotsSwitcher": "on",
@@ -330,7 +330,7 @@
     "page3.html": {
       "settings": {
         "title": "portfolio",
-        "order": 2,
+        "order": 1,
         "meta_descr": ""
       },
       "components": [
@@ -412,7 +412,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "Portfolio",
+          "title": "Portfolio&nbsp;",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
@@ -423,7 +423,8 @@
           "_anchor": "header1-w",
           "_styles": {
             "H1": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "72px"
             }
           }
         },
@@ -431,7 +432,7 @@
           "_params": {
             "showImages": true,
             "showTitles": false,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -511,11 +512,11 @@
             }
           },
           "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "oil on canvas - 2017&nbsp;",
           "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "oil on canvas - 2017&nbsp;",
           "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Oil on canvas - &nbsp;2018&nbsp;<br>",
           "title4": "Unlimited Sites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -533,7 +534,7 @@
           "_params": {
             "showImages": true,
             "showTitles": false,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -613,11 +614,11 @@
             }
           },
           "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "oil and pencil on canavs - 2017<br>",
           "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "",
           "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Oil and charcoal on canvas - 2017&nbsp;<br>",
           "title4": "Unlimited Sites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -635,7 +636,7 @@
           "_params": {
             "showImages": true,
             "showTitles": false,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -715,11 +716,11 @@
             }
           },
           "title1": "Bootstrap 3",
-          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "oil and pigment on canvas - 2017&nbsp;",
           "title2": "Responsive",
-          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "oil on canvas - 2017.",
           "title3": "Web Fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "oil on canvas - 2017&nbsp;",
           "title4": "Unlimited Sites",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
@@ -737,7 +738,7 @@
           "_params": {
             "showImages": true,
             "showTitles": false,
-            "showCaptions": false,
+            "showCaptions": true,
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -817,6 +818,108 @@
             }
           },
           "title1": "Bootstrap 3",
+          "caption1": "oil, pencil and&nbsp;charcoal on canvas&nbsp;",
+          "title2": "Responsive",
+          "caption2": "oil, and pigment on canvas&nbsp;",
+          "title3": "Web Fonts",
+          "caption3": "",
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-z"
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vnax2642-600x800.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/vkdp1025-600x800.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-4543-600x800.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "Bootstrap 3",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Responsive",
           "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
@@ -833,14 +936,14 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-z"
+          "_anchor": "features1-15"
         }
       ]
     },
     "page4.html": {
       "settings": {
         "title": "sketches",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -972,7 +1075,8 @@
                 "title": "Slide 1",
                 "contentAlign": "center",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": false
               }
             ]
           },
